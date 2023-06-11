@@ -32,18 +32,18 @@ The system provides:
   <li>We created two interfaces.</li>
   <li>We used SQL queries and Cursors to pull the following insights:
     <ul>
-      <li>Average time students wait before graduation</li>
-      <li>Number of Students hired even before graduation</li>
-      <li>Percentage of students continuing masters studies</li>
-      <li>Percentage of students pursuing their masters degrees in TBS institution</li>
-      <li>percentage of students pursuing their masters degrees In Tunisia But not in TBS</li>
-      <li>Percentage of students pursuing their masters degrees abroad</li>
-      <li>Number of TBSers becoming business Owners</li>
-      <li>Number of students who spent more than 4 years in TBS (4 years bachelor program)</li>
-      <li>Number of students working while studying</li>
+      <li>Average time students wait before graduation.</li>
+      <li>Number of Students hired even before graduation.</li>
+      <li>Percentage of students continuing masters studies.</li>
+      <li>Percentage of students pursuing their masters degrees in TBS institution.</li>
+      <li>percentage of students pursuing their masters degrees In Tunisia But not in TBS.</li>
+      <li>Percentage of students pursuing their masters degrees abroad.</li>
+      <li>Number of TBSers becoming business Owners.</li>
+      <li>Number of students who spent more than 4 years in TBS (4 years bachelor program).</li>
+      <li>Number of students working while studying.</li>
       <li>Salaries per major,gender, etc..</li>
       <li>Average waiting time before being hired given number of internships.</li>
-      <li>And more.</li>
+      <li>And more...</li>
     </ul>
   </li>
 </ol>
