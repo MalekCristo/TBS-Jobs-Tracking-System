@@ -1,6 +1,6 @@
 <H1>TBS Jobs Tracking System </H1>
 <h2>System Overview and Purpose:</h2>
-<p>The TBS Student Management System is a system designed to oversee and maintain student records pertaining to both their university and professional life. 
+<p>The TBS Student Management System is a system designed to oversee and maintain student records pertaining to both their academic and professional life. 
 <br>
 This system is mainly designed to help Tunis Business School's administration 
 managing students’ data. Extensive information is available at their 
