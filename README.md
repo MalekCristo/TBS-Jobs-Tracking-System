@@ -8,7 +8,10 @@ fingertips through this System.
 
 The system provides:
 <ul>
-  <li>An Interface designed to simplify the process of adding, modifying, and deleting information from the students' database.</li>
+  <li>An Interface designed with tkinter to simplify the process of adding, modifying, and deleting information from the students' database.</li>
   <li>The same interface enables the administration to search for students by specific characteristics as : name, speciality,gender, etc...</li>
-  <li></li>
+  <li>Another interface enabling the administration to get some informative statistics.</li>
 </ul>
+
+<img src="st.PNG">
+<img src="ad.PNG">
