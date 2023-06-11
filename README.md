@@ -25,7 +25,7 @@ The system provides:
   <li>Store old data and old students data.</li>
 </ul>
 
-<h2>The process:</h2>
+<h2>The Process:</h2>
 <ol>
   <li>We created our tables to form our database.</li>
   <li>We connected python to oracle database.</li>
